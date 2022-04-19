@@ -8,8 +8,8 @@ In this game the basic aim is to hit the ball using the paddle such that your op
 
 ## Project Intro
 
-Base pythyon implementation of old game of pingpong built using the pygame library in python. <br>
-the project was made with aim to portray experience in python game development to get a project at SugarLabs organisation in GSoC.
+Base python implementation of old game of pingpong built using the pygame library in python. <br>
+the project was made with aim to portray experience in python game development to get a project at **SugarLabs** organisation in **GSoC**.
 
 ---
 
